@@ -37,7 +37,7 @@ void main(){
                 ],
               ),
               Text("Pode entrar!",
-                style: TextStyle(color: Colors.white, fontStyle: FontStyle.italic, fontSize: 30.0),
+                style: TextStyle(color: Colors.yellow, fontStyle: FontStyle.italic, fontSize: 30.0),
               )
             ],
           )
