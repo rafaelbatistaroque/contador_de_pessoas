@@ -28,7 +28,7 @@ void main(){
                   ),
                   Padding(padding: EdgeInsets.all(10.0),
                     child: FlatButton(
-                      child: Text("-1",
+                      child: Text("-2",
                       style: TextStyle(fontSize: 40.0, color: Colors.white),
                       ),
                       onPressed: () {},
